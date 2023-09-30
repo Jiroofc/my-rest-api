@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'Jiro'// yourname
-global.MONGO_DB_URI = "" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://Jiroofc:S7iikxm6QKTDuFSS@cluster0.jia1yhc.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "Jiroprem" //isi apa aja bebas
 global.your_email = "ownerzrijo@gmail.com" //email
 global.email_password = "jirokw001" //application password email
